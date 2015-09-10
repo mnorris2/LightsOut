@@ -1,0 +1,9 @@
+M:\COMP 446\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+M:\COMP 446\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+M:\COMP 446\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+M:\COMP 446\LightsOut\LightsOut\obj\Debug\LightsOut.MainForm.resources
+M:\COMP 446\LightsOut\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+M:\COMP 446\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.Cache
+M:\COMP 446\LightsOut\LightsOut\obj\Debug\LightsOut.exe
+M:\COMP 446\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
+M:\COMP 446\LightsOut\LightsOut\obj\Debug\LightsOut.AboutForm.resources
